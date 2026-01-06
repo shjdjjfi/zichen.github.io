@@ -9,6 +9,15 @@ Supervisor: Kai Wang
 
 ---
 
+## 📰 News
+- 🎉 Google Scholar citations exceed **100**
+- 🎉 **Two** journal papers accepted by **Expert Systems with Applications**.
+- 🎉 **One** Paper accepted by **AAAI 2026 (Main Conference)**.
+- 🎉 **One** Paper accepted by **EACL 2026 (Main Conference)**.
+- 🎉 **One** Paper accepted by **AAMAS 2026 (Main Conference, Full Paper)**.
+
+---
+
 ## Research Interests
 - Membership Inference Attacks & Model Privacy
 - Large Language Models (LLMs)
@@ -50,7 +59,7 @@ Supervisor: Kai Wang
 
 8. **Pulse Transfer Learning: Multi-Area River Ammonia Nitrogen Prediction with Limited Data**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>†, Boying Nie†, Sitan Huang  
-   *Expert Systems with Applications (IF 7.5)*, **Accepted**, March 2024  
+   *Expert Systems with Applications (IF 7.5)*, **Accepted**  
    † Co-first authors
 
 9. **EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling**  
@@ -64,6 +73,15 @@ Supervisor: Kai Wang
 11. **DNN-Based Hospital Service Satisfaction Prediction Using Graph Convolutional Neural Networks**  
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Shan Ma  
     *IEEE Access (IF 3.9)*, **Accepted**
+
+12. **Compositional Concept Extraction with Multimodal Large Models: A Unified Framework with Thought Chain Optimization**  
+    Yuxin Wu†, <span style="color:#8B0000; font-weight:600;">Zichen Song</span>†, Sitan Huang, Zhongfeng Kang  
+    *Expert Systems with Applications*, **Accepted**
+    † Co-first authors
+
+14. **When Comments Aren’t What They Seem: A Social Media Comment Toxicity Detector for Understanding Contextual Comments**  
+    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Xiaopeng Fan, Yutong Wang, Feixuan Yan, Zijin Wu, Zhongfeng Kang  
+    *Expert Systems with Applications*, **Accepted**
 
 ---
 
