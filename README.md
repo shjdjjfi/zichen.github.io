@@ -3,9 +3,9 @@
 **Master Student @ City University of Hong Kong**  
 Supervisor: Kai Wang  
 
-📧 Email: songzichen894@gmail.com | sls530@skku.edu | songzch21@lzu.edu.cn
+📧 | songzichen894@gmail.com | sls530@skku.edu | songzch21@lzu.edu.cn
 
-🔗 Google Scholar | GitHub | CV (PDF)
+🔗 | Google Scholar | GitHub | CV (PDF)
 
 ---
 
