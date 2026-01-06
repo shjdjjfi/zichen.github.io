@@ -89,4 +89,4 @@ Supervisor: Kai Wang
 ---
 
 ## CV
-📄 [Download CV (PDF)](./cv.pdf)
+📄 [Download CV (PDF)](./硕士_宋子宸_中文_终版_26_1.pdf)
