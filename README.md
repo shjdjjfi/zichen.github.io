@@ -10,6 +10,7 @@ Supervisor: Kai Wang
 ---
 
 ## 📰 News
+- 🎉 **Five** Papers accepted by **CogSci 2026 (Main Conference)**.
 - 🎉 Google Scholar citations exceed **100**
 - 🎉 **Two** journal papers accepted by **Expert Systems with Applications**.
 - 🎉 **One** Paper accepted by **AAAI 2026 (Main Conference)**.
@@ -83,6 +84,25 @@ Supervisor: Kai Wang
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Xiaopeng Fan, Yutong Wang, Feixuan Yan, Zijin Wu, Zhongfeng Kang  
     *Expert Systems with Applications*, **Accepted**
 
+15. **HyenaFormer: The Long-Range Brain Signal Modeling for the Vigilance Estimation**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *Cognitive Science 2026 (CCF-B)*, **Accepted (Abstract)**
+
+16. **Normative DynamicRL: Identifying Rational Parameter Dynamics in Human Reinforcement Learning**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *Cognitive Science 2026 (CCF-B)*, **Accepted (Abstract)**
+
+17. **KANformer: Personalized Vigilance Estimation with Transformer Features and Kolmogorov–Arnold Sequence Modeling**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Yuxin Wu, Zhongfeng Kang, Tamer Abuhmed*
+   *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
+
+18. **Mamba-GazeNet: Emotion-Guided Graph–Mamba Architecture for Social Gaze Interaction Understanding**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
+
+19. **MetaCoT-CTRL: Metacognitive Control for Reliable Chain-of-Thought Reasoning in Large Language Models**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
 ---
 
 ## Education
