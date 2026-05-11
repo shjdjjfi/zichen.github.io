@@ -10,6 +10,7 @@ Supervisor: Kai Wang
 ---
 
 ## 📰 News
+- 🎉 Congradulations on **Best Paper Runner-Up Award** at the Advances in Financial AI Workshop at ICLR 2026.
 - 🎉 **Five** Papers accepted by **CogSci 2026 (Main Conference)**.
 - 🎉 Google Scholar citations exceed **100**
 - 🎉 **Two** journal papers accepted by **Expert Systems with Applications**.
@@ -103,6 +104,10 @@ Supervisor: Kai Wang
 19. **MetaCoT-CTRL: Metacognitive Control for Reliable Chain-of-Thought Reasoning in Large Language Models**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
+
+20. **Information Homogenization Induces Herding in Retrieval-Augmented LLM Agent Markets**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *ICLR 2026 AFA Workshop*, **Accepted (Best Paper)**
 ---
 
 ## Education
