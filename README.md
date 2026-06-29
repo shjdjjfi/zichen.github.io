@@ -10,6 +10,7 @@ Supervisor: Kai Wang
 ---
 
 ## 📰 News
+- 🎉 **One** Paper accepted by **IEEE Transactions on Fuzzy Systems (CCF B)**.
 - 🎉 We explore the socio-economic implications of AGI under a political-economy framework, focusing on how near-complete AGI substitution may reshape living labor, surplus value, capital accumulation, and the social profit rate. Our full paper,**AGI and the Limits of Value Production**, is available on arXiv and is currently under review at **Review of Radical Political Economics**.
 - 🎉 Congradulations on **Best Paper Runner-Up Award** at the Advances in Financial AI Workshop at ICLR 2026.
 - 🎉 **Five** Papers accepted by **CogSci 2026 (Main Conference)**.
@@ -109,6 +110,11 @@ Supervisor: Kai Wang
 20. **Information Homogenization Induces Herding in Retrieval-Augmented LLM Agent Markets**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *ICLR 2026 AFA Workshop*, **Accepted (Best Paper)**
+
+21. **F-AVSS: A Fuzzy Layer-Importance Metric for Efficient Large-Language-Model Compression**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Zhongfeng Kang*
+   *IEEE Transactions on Fuzzy Systems*, **Accepted (Full)**
+    
 ---
 
 ## Education
