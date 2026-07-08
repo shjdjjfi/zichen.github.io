@@ -10,6 +10,7 @@ Supervisor: Kai Wang
 ---
 
 ## 📰 News
+- 🎉 **One** Paper Under Review (Pass Editor) in **Production and Operations Management (UTD-24)**.
 - 🎉 I was invited by **CogSci 2026** to be a **chair** meetings for three tracks.
 - 🎉 **One** Paper accepted by **IEEE Transactions on Fuzzy Systems (CCF B)**.
 - 🎉 We explore the socio-economic implications of AGI under a political-economy framework, focusing on how near-complete AGI substitution may reshape living labor, surplus value, capital accumulation, and the social profit rate. Our full paper,**AGI and the Limits of Value Production**, is available on arXiv and is currently under review at **Review of Radical Political Economics**.
