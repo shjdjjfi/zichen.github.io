@@ -10,6 +10,7 @@ Supervisor: Kai Wang
 ---
 
 ## 📰 News
+- 🎉 **Two** Papers accepted by **ACM SYSTOR 2026**.
 - 🎉 **One** Paper Under Review (Pass Editor) in **Production and Operations Management (UTD-24)**.
 - 🎉 I was invited by **CogSci 2026** to be a **chair** meetings for three tracks.
 - 🎉 **One** Paper accepted by **IEEE Transactions on Fuzzy Systems (CCF B)**.
@@ -43,44 +44,48 @@ Supervisor: Kai Wang
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Weijia Li  
    *EACL 2026 (Main Conference)*, **Accepted**
 
-3. **UAM-MARL: Uncertainty-Aware Modality-Enhanced Multi-Agent Reinforcement Learning with LLM-Guided Graph Policies**  
+3. **F-AVSS: A Fuzzy Layer-Importance Metric for Efficient Large-Language-Model Compression**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Zhongfeng Kang*
+   *IEEE Transactions on Fuzzy Systems*, **Accepted (Full)**
+
+4. **UAM-MARL: Uncertainty-Aware Modality-Enhanced Multi-Agent Reinforcement Learning with LLM-Guided Graph Policies**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Weijia Li  
    *AAMAS 2026 (Main Conference, Full Paper)*, **Accepted**
 
-4. **SAMM: A Selective Attention Sequential Model for EEG–EOG Vigilance Estimation**  
+5. **SAMM: A Selective Attention Sequential Model for EEG–EOG Vigilance Estimation**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*, Yuxi Tong, Yuxin Wu  
    *Cognitive Science 2025 (CCF-B)*, **Accepted (Poster)**
 
-5. **Mamba-CCA: An Efficient Framework for EEG Emotion Recognition**  
+6. **Mamba-CCA: An Efficient Framework for EEG Emotion Recognition**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*, Yuxi Tong, Yuxin Wu  
    *Cognitive Science 2025 (CCF-B)*, **Accepted (Abstract)**  
 
-6. **Mamba-MSCCA-Net: Efficient Change Detection for Remote Sensing Images**  
+7. **Mamba-MSCCA-Net: Efficient Change Detection for Remote Sensing Images**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Sitan Huang  
    *Displays*, **Accepted**
 
-7. **HSCL-RL: Mitigating Hallucinations in Multimodal Large Language Models**  
+8. **HSCL-RL: Mitigating Hallucinations in Multimodal Large Language Models**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Sitan Huang  
    *NeurIPS 2024 OWA Workshop*, **Accepted (Poster)**
 
-8. **Pulse Transfer Learning: Multi-Area River Ammonia Nitrogen Prediction with Limited Data**  
+9. **Pulse Transfer Learning: Multi-Area River Ammonia Nitrogen Prediction with Limited Data**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>†, Boying Nie†, Sitan Huang  
    *Expert Systems with Applications (IF 7.5)*, **Accepted**  
    † Co-first authors
 
-9. **EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling**  
+10. **EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Sitan Huang, Zhongfeng Kang  
    *ICASSP 2025 (CCF-B)*, **Accepted**
 
-10. **Mutual Information Dropout: Mutual Information Can Be All You Need**  
+11. **Mutual Information Dropout: Mutual Information Can Be All You Need**  
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Shan Ma  
     *ICANN 2023 (CCF-C)*, **Accepted (Oral)**
 
-11. **DNN-Based Hospital Service Satisfaction Prediction Using Graph Convolutional Neural Networks**  
+12. **DNN-Based Hospital Service Satisfaction Prediction Using Graph Convolutional Neural Networks**  
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Shan Ma  
     *IEEE Access (IF 3.9)*, **Accepted**
 
-12. **Compositional Concept Extraction with Multimodal Large Models: A Unified Framework with Thought Chain Optimization**  
+13. **Compositional Concept Extraction with Multimodal Large Models: A Unified Framework with Thought Chain Optimization**  
     Yuxin Wu†, <span style="color:#8B0000; font-weight:600;">Zichen Song</span>†, Sitan Huang, Zhongfeng Kang  
     *Expert Systems with Applications*, **Accepted**
     † Co-first authors
@@ -113,10 +118,14 @@ Supervisor: Kai Wang
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *ICLR 2026 AFA Workshop*, **Accepted (Best Paper)**
 
-21. **F-AVSS: A Fuzzy Layer-Importance Metric for Efficient Large-Language-Model Compression**  
-   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Zhongfeng Kang*
-   *IEEE Transactions on Fuzzy Systems*, **Accepted (Full)**
-    
+21. **RagTier: Coordinating Cache and Storage Placement in RAG Systems**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *ACM SYSTOR 2026*, **Accepted (Poster)**
+
+22. **CI-Sherpa: Budget-Aware CI Failure Triage and Fix Suggestion System**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
+   *ACM SYSTOR 2026*, **Accepted (Poster)**
+
 ---
 
 ## Education
