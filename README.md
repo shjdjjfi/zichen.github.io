@@ -8,6 +8,17 @@ Supervisor: Kai Wang
 🔗 | Google Scholar | GitHub | CV (PDF)
 
 ---
+## Research Vision
+
+I have never viewed computer science as an end in itself. When I chose to study computer science, what fascinated me most was not alone, but a broader question: how can artificial intelligence reshape the way society works? This perspective has gradually shaped my research into two interconnected directions.
+
+(1) Improving the optimization, reliability, and security of AI models; 
+
+(2) Exploring how AI can enable new economic mechanisms and forms of social organization.
+
+I hope to understand not only how to build better AI systems, but also how these systems can help us imagine and design better ways for society to operate.
+
+---
 
 ## 📰 News
 - 🎉 **Two** Papers accepted by **ACM SYSTOR 2026**.
