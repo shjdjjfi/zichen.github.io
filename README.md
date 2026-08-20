@@ -21,6 +21,7 @@ I hope to understand not only how to build better AI systems, but also how these
 ---
 
 ## 📰 News
+- 🎉 **One** Paper accepted by **TMLR**.
 - 🎉 **Two** Papers accepted by **ACM SYSTOR 2026**.
 - 🎉 **One** Paper Under Review (Pass Editor) in **Production and Operations Management (UTD-24)**.
 - 🎉 I was invited by **CogSci 2026** to be a **chair** meetings for three tracks.
