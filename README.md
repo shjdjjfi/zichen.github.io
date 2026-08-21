@@ -70,6 +70,7 @@ I hope to understand not only how to build better AI systems, but also how these
 
 4. **GI-MIA: Group-Invariant Membership Inference Attacks Against Large Language Models**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Farman Ali, Tamer Abuhmed
+   
    *EMNLP 2026 (Findings, Full Paper)*, **Accepted**
 
 6. **SAMM: A Selective Attention Sequential Model for EEG–EOG Vigilance Estimation**  
