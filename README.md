@@ -20,6 +20,7 @@ I hope to understand not only how to build better AI systems, but also how these
 ---
 
 ## 📰 News
+- 🎉 **One** Paper accepted by **EMNLP 2026**.
 - 🎉 **One** Paper accepted by **TMLR**.
 - 🎉 **Two** Papers accepted by **ACM SYSTOR 2026**.
 - 🎉 **One** Paper Under Review (Pass Editor) in **Production and Operations Management (UTD-24)**.
@@ -63,77 +64,85 @@ I hope to understand not only how to build better AI systems, but also how these
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Weijia Li  
    *AAMAS 2026 (Main Conference, Full Paper)*, **Accepted**
 
-5. **SAMM: A Selective Attention Sequential Model for EEG–EOG Vigilance Estimation**  
+4. **Low-Rank Geometry for Zeroth-Order Fine-Tuning of Black-Box Large Language Models**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Weijia Li  
+   *TMLR*, **Accepted**
+
+4. **GI-MIA: Group-Invariant Membership Inference Attacks Against Large Language Models**  
+   <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Farman Ali, Tamer Abuhmed
+   *EMNLP 2026 (Findings, Full Paper)*, **Accepted**
+
+6. **SAMM: A Selective Attention Sequential Model for EEG–EOG Vigilance Estimation**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*, Yuxi Tong, Yuxin Wu  
    *Cognitive Science 2025 (CCF-B)*, **Accepted (Poster)**
 
-6. **Mamba-CCA: An Efficient Framework for EEG Emotion Recognition**  
+7. **Mamba-CCA: An Efficient Framework for EEG Emotion Recognition**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*, Yuxi Tong, Yuxin Wu  
    *Cognitive Science 2025 (CCF-B)*, **Accepted (Abstract)**  
 
-7. **Mamba-MSCCA-Net: Efficient Change Detection for Remote Sensing Images**  
+8. **Mamba-MSCCA-Net: Efficient Change Detection for Remote Sensing Images**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Sitan Huang  
    *Displays*, **Accepted**
 
-8. **HSCL-RL: Mitigating Hallucinations in Multimodal Large Language Models**  
+9. **HSCL-RL: Mitigating Hallucinations in Multimodal Large Language Models**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Sitan Huang  
    *NeurIPS 2024 OWA Workshop*, **Accepted (Poster)**
 
-9. **Pulse Transfer Learning: Multi-Area River Ammonia Nitrogen Prediction with Limited Data**  
+10. **Pulse Transfer Learning: Multi-Area River Ammonia Nitrogen Prediction with Limited Data**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>†, Boying Nie†, Sitan Huang  
    *Expert Systems with Applications (IF 7.5)*, **Accepted**  
    † Co-first authors
 
-10. **EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling**  
+11. **EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Sitan Huang, Zhongfeng Kang  
    *ICASSP 2025 (CCF-B)*, **Accepted**
 
-11. **Mutual Information Dropout: Mutual Information Can Be All You Need**  
+12. **Mutual Information Dropout: Mutual Information Can Be All You Need**  
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Shan Ma  
     *ICANN 2023 (CCF-C)*, **Accepted (Oral)**
 
-12. **DNN-Based Hospital Service Satisfaction Prediction Using Graph Convolutional Neural Networks**  
+13. **DNN-Based Hospital Service Satisfaction Prediction Using Graph Convolutional Neural Networks**  
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Shan Ma  
     *IEEE Access (IF 3.9)*, **Accepted**
 
-13. **Compositional Concept Extraction with Multimodal Large Models: A Unified Framework with Thought Chain Optimization**  
+14. **Compositional Concept Extraction with Multimodal Large Models: A Unified Framework with Thought Chain Optimization**  
     Yuxin Wu†, <span style="color:#8B0000; font-weight:600;">Zichen Song</span>†, Sitan Huang, Zhongfeng Kang  
     *Expert Systems with Applications*, **Accepted**
     † Co-first authors
 
-14. **When Comments Aren’t What They Seem: A Social Media Comment Toxicity Detector for Understanding Contextual Comments**  
+15. **When Comments Aren’t What They Seem: A Social Media Comment Toxicity Detector for Understanding Contextual Comments**  
     <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Xiaopeng Fan, Yutong Wang, Feixuan Yan, Zijin Wu, Zhongfeng Kang  
     *Expert Systems with Applications*, **Accepted**
 
-15. **HyenaFormer: The Long-Range Brain Signal Modeling for the Vigilance Estimation**  
+16. **HyenaFormer: The Long-Range Brain Signal Modeling for the Vigilance Estimation**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *Cognitive Science 2026 (CCF-B)*, **Accepted (Abstract)**
 
-16. **Normative DynamicRL: Identifying Rational Parameter Dynamics in Human Reinforcement Learning**  
+17. **Normative DynamicRL: Identifying Rational Parameter Dynamics in Human Reinforcement Learning**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *Cognitive Science 2026 (CCF-B)*, **Accepted (Abstract)**
 
-17. **KANformer: Personalized Vigilance Estimation with Transformer Features and Kolmogorov–Arnold Sequence Modeling**  
+18. **KANformer: Personalized Vigilance Estimation with Transformer Features and Kolmogorov–Arnold Sequence Modeling**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>, Yuxin Wu, Zhongfeng Kang, Tamer Abuhmed*
    *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
 
-18. **Mamba-GazeNet: Emotion-Guided Graph–Mamba Architecture for Social Gaze Interaction Understanding**  
+19. **Mamba-GazeNet: Emotion-Guided Graph–Mamba Architecture for Social Gaze Interaction Understanding**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
 
-19. **MetaCoT-CTRL: Metacognitive Control for Reliable Chain-of-Thought Reasoning in Large Language Models**  
+20. **MetaCoT-CTRL: Metacognitive Control for Reliable Chain-of-Thought Reasoning in Large Language Models**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *Cognitive Science 2026 (CCF-B)*, **Accepted (Full)**
 
-20. **Information Homogenization Induces Herding in Retrieval-Augmented LLM Agent Markets**  
+21. **Information Homogenization Induces Herding in Retrieval-Augmented LLM Agent Markets**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *ICLR 2026 AFA Workshop*, **Accepted (Best Paper)**
 
-21. **RagTier: Coordinating Cache and Storage Placement in RAG Systems**  
+22. **RagTier: Coordinating Cache and Storage Placement in RAG Systems**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *ACM SYSTOR 2026*, **Accepted (Poster)**
 
-22. **CI-Sherpa: Budget-Aware CI Failure Triage and Fix Suggestion System**  
+23. **CI-Sherpa: Budget-Aware CI Failure Triage and Fix Suggestion System**  
    <span style="color:#8B0000; font-weight:600;">Zichen Song</span>*
    *ACM SYSTOR 2026*, **Accepted (Poster)**
 
