@@ -20,6 +20,7 @@ I hope to understand not only how to build better AI systems, but also how these
 ---
 
 ## 📰 News
+- 🎉 **TMLR** J2C Award(Top 10%).
 - 🎉 **One** Paper accepted by **EMNLP 2026**.
 - 🎉 **One** Paper accepted by **TMLR**.
 - 🎉 **Two** Papers accepted by **ACM SYSTOR 2026**.
